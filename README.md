@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/TGStudios/SwordManPvP/releases/latest">
-    <h4 align="center">Download the latest version</h4>
+    <h4 align="center">Latest Version</h4>
   </a>
 </p>
 <p align="center">
