@@ -1,0 +1,12 @@
+wooden sword | 0 | 5 ~ 7 | 8
+stone sword | -1 | 6 ~ 8 | 10
+iron sword | -2 | 9 ~ 11 | 16
+gold sword | -5 | 12 ~ 14 | 22
+diamond sword | -1 | 13 ~ 15 | 24
+
+blazing sword | 0 | 6 ~ 8 | 16
+dark sword | 3 | 8 ~ 10 | 16
+fire axe | 0 | 6.5 ~ 8.5 | 11
+ice sword | -2 | 8.5 ~ 10.5 | 17
+ninja sword | 4 | 2 ~ 4 | 5.5
+tipped rapier | 2 | 4 ~ 6 | 7
